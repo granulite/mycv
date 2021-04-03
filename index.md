@@ -4,7 +4,8 @@ title: 杨孝强简历
 email:
   url: mailto:yangxiaoqiang@outlook.com
   text: yangxiaoqiang@outlook.com
-phone: +86 13656691084
+phone: 
+  text: +86 13656691084
 ---
 
 # **杨孝强**
@@ -19,6 +20,10 @@ Supported arguments:
 -->
 
 {% include cv-contact.html %}
+
+##  **关于我, 关于我的产品观**
+
+
 
 ## 教育经历
 
