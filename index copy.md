@@ -4,6 +4,9 @@ title: 杨孝强简历
 email:
   url: mailto:yangxiaoqiang@outlook.com
   text: yangxiaoqiang@outlook.com
+homepage:
+  url: http://cs.cmu.edu/~woden
+  text: cs.cmu.edu/~woden
 ---
 
 # Wode **Ni**
@@ -18,29 +21,36 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-## 教育经历
+## Education
 
-### **浙江大学** `2011.07 - 2016.07`
-
-```
-浙江 - 杭州
-```
-- 地球科学博士
-### **The University of Sydney** `2015.01 - 2016.01`
+### **Carnegie Mellon University** `2018.9 -`
 
 ```
-澳大利亚 - 悉尼
+Pittsburgh, PA
 ```
 
-- 国家留学基金委 (CSC)公派项目
-### **浙江大学** `2006.07 - 2011.07`
+- Ph.D. in Software Engineering
+- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+
+### **Columbia University** `2016.9 - 2018.5`
 
 ```
-浙江 - 杭州
+New York, NY
 ```
-- 理学 本科
 
-## 工作经验
+- B.S. in Computer Science, _Magna Cum Laude_
+- Vision, Graphics track
+
+### **Dickinson College** `2013.9 - 2016.5`
+
+```
+Carlisle, PA
+```
+
+- B.S. in Computer Science, _Summa Cum Laude_
+- Computer Science Departmental Honors
+
+## Publications
 
 ### [**Penrose: From Mathematical Notation to Beautiful Diagrams**](http://penrose.ink/media/Penrose_SIGGRAPH2020.pdf)
 Katherine Ye, **Wode Ni**, Max Krieger, Dor Ma'ayan, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br> 
