@@ -4,7 +4,7 @@ title: 杨孝强简历
 email:
   url: mailto:yangxiaoqiang@outlook.com
   text: yangxiaoqiang@outlook.com
-WeChat:
+phone:
   text: granulite
 ---
 
@@ -13,6 +13,7 @@ WeChat:
 <!--
 include contact information from the front matter
 Supported arguments:
+
     - homepage: url, text
         - phone
         - email
@@ -22,14 +23,12 @@ Supported arguments:
 
 ## 教育经历
 
-### **浙江大学** `2011.07 - 2016.07`
+### **浙江大学** `2006.07 - 2016.07`
 
 ```
 浙江 - 杭州
 ```
-- 地球科学博士
-
-
+- 地球科学本科 + 保送直接攻读博士
 
 ### **The University of Sydney** `2015.01 - 2016.01`
 
@@ -40,13 +39,6 @@ Supported arguments:
 - 国家留学基金委 (CSC)公派项目
 
 
-
-### **浙江大学** `2006.07 - 2011.07`
-
-```
-浙江 - 杭州
-```
-- 理学 本科
 
 ## 工作经验
 
