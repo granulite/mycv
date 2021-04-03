@@ -4,16 +4,18 @@ title: 杨孝强简历
 email:
   url: mailto:yangxiaoqiang@outlook.com
   text: yangxiaoqiang@outlook.com
+WeChat:
+  text: granulite
 ---
 
-# Wode **Ni**
+# 杨孝强
 
 <!--
 include contact information from the front matter
 Supported arguments:
     - homepage: url, text
-    - phone
-    - email
+        - phone
+        - email
 -->
 
 {% include cv-contact.html %}
