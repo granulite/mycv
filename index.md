@@ -44,18 +44,16 @@ Supported arguments:
 
 ## 工作经历
 
-### **[支付宝](https://ab.alipay.com)** - 用户产品部 -- 客户平台产品组  `2017.12 -`<br>
-- **团队定位**: 客户平台产品组是为整个蚂蚁金服提供账号和客户KYC基础服务产品组<br>
+### **[支付宝](https://ab.alipay.com)** - 用户产品部 -- 客户平台产品组  `2017.12 -`
+- __团队定位__: 客户平台产品组是为整个蚂蚁金服提供账号和客户KYC基础服务产品组<br>
 - **个人负责**: 登录产品 -> 授权产品 - 支付宝账号产品负责人
 
 
 ###  [**校宝在线** - 智慧校园产品组 ](https://xiaobaoonline.com/sis)   `2016.05 - 2017.11`
-
-> 一款面向全日制民办中小学的SaaS服务解决方案
-产品经理
+- **产品定位**: 一款面向全日制民办中小学的SaaS服务解决方案
+- **产品经理**: 
 	
-
-## 荣誉和奖励
+## 关键项目
 
 Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
 Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
