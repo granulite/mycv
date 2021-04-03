@@ -38,8 +38,7 @@ Supported arguments:
 ```
 澳大利亚 - 悉尼
 ```
-
-国家留学基金委 (CSC)公派项目
+- 国家留学基金委 (CSC)公派项目
 
 
 
@@ -87,11 +86,11 @@ Peer Tutor, **Data Structures and Problem Solving (COMP 232)** `Dickinson, 2016`
 Computer Lab Consultant `Dickinson, 2014 - 2016` <br>
 
 
-## Service
+## 专业&软件技能
 
-Reviewer `CHI 2021`
-Research Experiences for Undergraduates in Software Engineering Admission Committee `CMU, 2019 - 2020`
+产品架构设计、用户动线设计(axure)
+
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2021 -->
