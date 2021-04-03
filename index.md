@@ -5,10 +5,11 @@ email:
   url: mailto:yangxiaoqiang@outlook.com
   text: yangxiaoqiang@outlook.com
 phone:
-  text: granulite
+ url:   
+ text: granulite
 ---
 
-# 杨孝强
+# **杨孝强**
 
 <!--
 include contact information from the front matter
