@@ -50,14 +50,24 @@ Supported arguments:
 
 
 ###  [**校宝在线** - 智慧校园产品组 ](https://xiaobaoonline.com/sis)   `2016.05 - 2017.11`
-- **产品定位**: 一款面向全日制民办中小学的SaaS服务解决方案
-- **产品经理**: 
+- __产品定位__: 一款面向全日制民办中小学的SaaS服务解决方案
+- __个人职责__: 
 	
 ## 关键项目
+### 用户转化率提升 -- 五端通-集团交叉拉新项目 `2020.03 - 2021.07`
+- 背景:
+- 思路: 
+- 效果:
 
-Max Krieger (CMU, independent research & [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2018 - Now` <br>
-Courtney Miller (New College of Florida, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
-Anael Kuperwajs Cohen (Macalester College, [REUSE](https://www.cmu.edu/scs/isr/reuse/)) `CMU, 2019` <br>
+### 用户转化率提升 -- 登录产品策略化 `2018.03 - 2018.12`
+- 背景:
+- 思路: 
+- 效果: 
+
+### 平台体验治理 -- 授权产品治理专项
+
+
+### 
 
 ## Honors & Awards
 
