@@ -4,9 +4,7 @@ title: 杨孝强简历
 email:
   url: mailto:yangxiaoqiang@outlook.com
   text: yangxiaoqiang@outlook.com
-phone:
- url:   
- text: granulite
+phone: +86 13656691084
 ---
 
 # **杨孝强**
