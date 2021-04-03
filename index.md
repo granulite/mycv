@@ -4,8 +4,7 @@ title: 杨孝强简历
 email:
   url: mailto:yangxiaoqiang@outlook.com
   text: yangxiaoqiang@outlook.com
-phone: 
-  text: +86 13656691084
+phone: +86 13656691084
 ---
 
 # **杨孝强**
@@ -21,7 +20,7 @@ Supported arguments:
 
 {% include cv-contact.html %}
 
-##  **关于我, 关于我的产品观**
+##  关于我, 关于我的产品观
 
 
 
@@ -51,6 +50,8 @@ Supported arguments:
 高级产品经理  ==>  产品专家
 
 ###  [**校宝在线** - 智慧校园产品组](https://xiaobaoonline.com/sis) `2016.05 - 2017.11`
+
+> 一款面向全日制民办中小学的SaaS服务解决方案
 
 产品经理
 
